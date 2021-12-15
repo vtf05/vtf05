@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtf05" alt="vtf05" /></a> </p>
 
-- 🌱 I’m currently learning **tensorflow,pytorch**
+- 🌱 I’m currently learning **#**
 
 - 💬 Ask me about **django,data-structure and algorithms,**
 
