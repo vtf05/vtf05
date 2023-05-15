@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtf05" alt="vtf05" /></a> </p>
 
-- 🌱 I’m currently learning **#**
+- 🌱 Let's make a change **#**
 
-- 💬 Ask me about **django,data-structure and algorithms,**
+- 💬 Ask me about **django,Flask, React, Docker, AWS, data-structure and algorithms,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
