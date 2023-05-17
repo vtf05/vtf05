@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash vishwakarma</h1>
-<h3 align="center">A passionate backend developer and data science student</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtf05&label=Profile%20views&color=0e75b6&style=flat" alt="vtf05" /> </p>
 
